@@ -3,7 +3,7 @@ projet de cybert-securite
 
 ---
 
-# 🎓 (VerifyMe) Système de Vérification d'Identité et du paiment des Étudiant  
+# 🎓 (VerifyMe) Système de Vérification d'Identité et du paiment des Étudiant   
 
 ![facial_recognition](https://img.shields.io/badge/Reconnaissance-Faciale-green) ![fingerprint](https://img.shields.io/badge/Identification-Empreinte%20Digitale-blue) ![database](https://img.shields.io/badge/Base%20de%20données-PostgreSQL-orange) ![python](https://img.shields.io/badge/Backend-Python%20%7C%20Django-yellow)
 
